@@ -12,6 +12,6 @@ python server.py
 and in another terminal
 
 ```
-node client.js
+node client.js --todo <todotext>
 ```
 
